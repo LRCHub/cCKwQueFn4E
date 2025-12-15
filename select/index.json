@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "勝手にシンドバッド",
+  "base_artist": "サザンオールスターズ",
+  "createdAt": "2025-12-15T13:59:21.804954Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "勝手にシンドバッド",
+      "artist": "サザンオールスターズ",
+      "has_synced": true,
+      "path": "select/01_勝手にシンドバッド_サザンオールスターズ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "勝手にシンドバッド",
+      "artist": "サザンオールスターズ",
+      "has_synced": true,
+      "path": "select/02_勝手にシンドバッド_サザンオールスターズ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "勝手にシンドバッド - Katte ni Sinbad",
+      "artist": "SOUTHERN ALL STARS",
+      "has_synced": true,
+      "path": "select/03_勝手にシンドバッド_-_Katte_ni_Sinbad_SOUTHERN_ALL_STARS.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "勝手にシンドバッド",
+      "artist": "Arts",
+      "has_synced": true,
+      "path": "select/04_勝手にシンドバッド_Arts.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "勝手にシンドバッド",
+      "artist": "Southern All Stars",
+      "has_synced": true,
+      "path": "select/05_勝手にシンドバッド_Southern_All_Stars.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "勝手にシンドバッド - Katte ni Sinbad",
+      "artist": "SOUTHERN ALL STARS",
+      "has_synced": true,
+      "path": "select/06_勝手にシンドバッド_-_Katte_ni_Sinbad_SOUTHERN_ALL_STARS.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "勝手にシンドバッド",
+      "artist": "サザンオールスターズ",
+      "has_synced": true,
+      "path": "select/07_勝手にシンドバッド_サザンオールスターズ.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "勝手にシンドバッド",
+      "artist": "Southern All Stars",
+      "has_synced": true,
+      "path": "select/08_勝手にシンドバッド_Southern_All_Stars.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "勝手にシンドバッド [2024 Remaster]",
+      "artist": "サザンオールスターズ",
+      "has_synced": true,
+      "path": "select/09_勝手にシンドバッド_[2024_Remaster]_サザンオールスターズ.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "勝手にシンドバッド",
+      "artist": "サザンオールスターズ",
+      "has_synced": true,
+      "path": "select/10_勝手にシンドバッド_サザンオールスターズ.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "勝手にシンドバッド",
+      "artist": "サザンオールスターズ",
+      "has_synced": true,
+      "path": "select/11_勝手にシンドバッド_サザンオールスターズ.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "勝手にシンドバッド",
+      "artist": "サザンオールスターズ",
+      "has_synced": true,
+      "path": "select/12_勝手にシンドバッド_サザンオールスターズ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "勝手にシンドバッド",
+      "artist": "サザンオールスターズ",
+      "has_synced": false,
+      "path": "select/pl_01_勝手にシンドバッド_サザンオールスターズ.txt"
+    }
+  ]
+}
